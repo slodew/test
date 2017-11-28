@@ -1,2 +1,2 @@
-file1.c [modified] nedame sa znicit janovym commitom
-testtest retested
+file1.c [modified] nedame sa znicit janovym commitom ani teraz sa nedame znicit
+testtest retested nic nas neda dole
