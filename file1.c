@@ -1,2 +1,2 @@
-file1.c [modified] nedame sa znicit janom
-testtest
+file1.c [modified] nedame sa znicit janovym commitom
+testtest retested
